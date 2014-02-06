@@ -1,0 +1,16 @@
+{
+  "name": "bam-chat",
+  "version": "0.0.0",
+  "description": "Socket server and HTTP API for the bam chat service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bam-org/bam-chat.git"
+  },
+  "author": "portify <portification@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bam-org/bam-chat/issues"
+  },
+  "homepage": "https://github.com/bam-org/bam-chat"
+}
