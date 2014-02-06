@@ -1,0 +1,10 @@
+{"type": "action", "data": {"action": "join"}},
+	{"type": "action", "data": {"friends": [{"name": "Brian Smith", "blid": 8437, "online": true}]}}
+
+
+{"type": "message", "data": {"destination": {"type": "group", "id": 0}, "content": "sup"}}
+	{"type": "message", "data": {"destination": {"type": "group", "id": 0}, "content": "sup", "origin": "Brian Smith"}}
+
+
+{"type": "message", "data": {"destination": {"type": "personal", "id": 0}, "content": "emone"}}
+	{"type": "message", "data": {"destination": {"type": "personal", "id": 0}, "content": "emone", "origin": "Brian S."}}
