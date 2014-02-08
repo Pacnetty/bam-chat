@@ -12,5 +12,9 @@
   "bugs": {
     "url": "https://github.com/bam-org/bam-chat/issues"
   },
-  "homepage": "https://github.com/bam-org/bam-chat"
+  "homepage": "https://github.com/bam-org/bam-chat",
+  "dependencies": {
+    "carrier": "~0.1.13",
+    "json-formatter": "~0.1.0"
+  }
 }

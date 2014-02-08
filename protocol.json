@@ -1,4 +1,4 @@
-{"type": "action", "data": {"action": "join"}},
+{"type": "action", "data": {"action": "join", "name": "Port"}},
 	{"type": "action", "data": {"friends": [{"name": "Brian Smith", "blid": 8437, "online": true}]}}
 
 
